@@ -1,0 +1,1 @@
+# Spotify-Collaborative-Public-Playlists-Template
