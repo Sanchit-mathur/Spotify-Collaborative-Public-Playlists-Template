@@ -69,6 +69,11 @@ Allow reordering playlist from Github
 Add workflow to update child repositories with changes from the Template repository
 
 
+## Changelog
+Initial functional version, featuring Add and Delete songs; Pull and Push playlist between Spotify and Github.
+
+
+
 
 
 
